@@ -1,4 +1,18 @@
 body {
     background-color: black;
     color: gold;
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+}
+
+header{
+     font-family: "Permanent Marker", cursive;
+     font-size: 60px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
