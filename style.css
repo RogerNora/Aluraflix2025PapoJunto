@@ -2,11 +2,17 @@ body {
     background-color: black;
     color: gold;
     font-family: "Edu VIC WA NT Hand Pre", cursive;
+    margin: 0px;
 }
 
 header{
      font-family: "Permanent Marker", cursive;
      font-size: 60px;
+     border-bottom: dotted 8px magenta;
+     /*padding-bottom: 50px;*/
+     padding-bottom: 50px;
+     color: greenyellow ;
+     text-align: center;
 }
 
 h1 {
