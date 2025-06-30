@@ -27,7 +27,7 @@ p{
     font-size: 20px;
 }
 
-section {
+.chamada {
     background-image: url("ceu.png");
     background-size: cover;
     background-position: center;
@@ -40,4 +40,18 @@ section {
 
 .chamada-texto{
     margin-right: 10%;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.outras-recomendacoes{
+   text-align: center;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
